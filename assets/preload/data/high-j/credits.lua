@@ -11,11 +11,11 @@
 	CoderName2 = 'Move Arrow Event - ???'
 	CoderName3 = 'Bad Apple thingie - Saltyboii#2461'
 
-	ArtistName1 = 'BF J-sides fanmade - Kizz_'
-	ArtistName2 = 'BF J-sides fanmade icon - Magnum'
+	ArtistName1 = 'BF, GF and Mom J-sides fanmade - Kizz_'
+	ArtistName2 = 'BF and Mom J-sides fanmade icons - Boy Fuende'
 	ArtistName3 = ''
 
-	MusicianName1 = 'Pickles'
+	MusicianName1 = 'Pickle'
 	MusicianName2 = ''
 	MusicianName3 = ''
 
