@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LittleStar.png">
+<SubTexture name="LittleStar Anim0000" x="0" y="326" width="153" height="160" frameX="-5" frameY="-6" frameWidth="162" frameHeight="168" />
+<SubTexture name="LittleStar Anim0001" x="0" y="0" width="162" height="163" frameX="0" frameY="-3" frameWidth="162" frameHeight="168" />
+<SubTexture name="LittleStar Anim0002" x="162" y="0" width="162" height="163" frameX="0" frameY="-3" frameWidth="162" frameHeight="168" />
+<SubTexture name="LittleStar Anim0003" x="324" y="0" width="162" height="163" frameX="0" frameY="-3" frameWidth="162" frameHeight="168" />
+<SubTexture name="LittleStar Anim0004" x="0" y="163" width="162" height="163" frameX="0" frameY="-3" frameWidth="162" frameHeight="168" />
+<SubTexture name="LittleStar Anim0005" x="162" y="163" width="162" height="163" frameX="0" frameY="-3" frameWidth="162" frameHeight="168" />
+<SubTexture name="LittleStar Anim0006" x="324" y="163" width="162" height="163" frameX="0" frameY="-3" frameWidth="162" frameHeight="168" />
+</TextureAtlas>

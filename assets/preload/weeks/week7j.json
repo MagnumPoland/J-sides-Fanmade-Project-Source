@@ -1,0 +1,40 @@
+{
+	"storyName": "this guy from fnf but more amazing",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "tank",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week7",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Ugh-j",
+			"tankman",
+			[
+				246,
+				182,
+				4
+			]
+		],
+		[
+			"Guns-j",
+			"tankman",
+			[
+				246,
+				182,
+				4
+			]
+		]
+	],
+	"weekCharacters": [
+		"tankman",
+		"bf",
+		"gf"
+	],
+	"weekName": "Week 7 J-sides"
+}

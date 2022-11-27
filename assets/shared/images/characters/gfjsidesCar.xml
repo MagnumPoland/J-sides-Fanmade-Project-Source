@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfjsidesCar.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Cheer0000" x="0" y="0" width="910" height="678" frameX="-2" frameY="0" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0001" x="910" y="0" width="913" height="676" frameX="0" frameY="0" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0002" x="1823" y="0" width="913" height="672" frameX="0" frameY="-4" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0003" x="2736" y="0" width="910" height="674" frameX="-2" frameY="-4" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0004" x="3646" y="0" width="910" height="674" frameX="-2" frameY="-4" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0005" x="3646" y="0" width="910" height="674" frameX="-2" frameY="-4" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0006" x="3646" y="0" width="910" height="674" frameX="-2" frameY="-4" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0007" x="3646" y="0" width="910" height="674" frameX="-2" frameY="-4" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0008" x="3646" y="0" width="910" height="674" frameX="-2" frameY="-4" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0009" x="3646" y="0" width="910" height="674" frameX="-2" frameY="-4" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0010" x="3646" y="0" width="910" height="674" frameX="-2" frameY="-4" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0011" x="3646" y="0" width="910" height="674" frameX="-2" frameY="-4" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0012" x="3646" y="0" width="910" height="674" frameX="-2" frameY="-4" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0013" x="3646" y="0" width="910" height="674" frameX="-2" frameY="-4" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0014" x="3646" y="0" width="910" height="674" frameX="-2" frameY="-4" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0015" x="3646" y="0" width="910" height="674" frameX="-2" frameY="-4" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0016" x="3646" y="0" width="910" height="674" frameX="-2" frameY="-4" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0017" x="3646" y="0" width="910" height="674" frameX="-2" frameY="-4" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0018" x="3646" y="0" width="910" height="674" frameX="-2" frameY="-4" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0019" x="3646" y="0" width="910" height="674" frameX="-2" frameY="-4" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Cheer0020" x="3646" y="0" width="910" height="674" frameX="-2" frameY="-4" frameWidth="913" frameHeight="678"/>
+	<SubTexture name="GF Dancing Beat0000" x="4556" y="0" width="910" height="657" frameX="-2" frameY="-10" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0001" x="5466" y="0" width="913" height="655" frameX="0" frameY="-10" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0002" x="6379" y="0" width="913" height="654" frameX="0" frameY="-11" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0003" x="0" y="678" width="910" height="656" frameX="-2" frameY="-11" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0004" x="910" y="678" width="910" height="660" frameX="-2" frameY="-7" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0005" x="1820" y="678" width="910" height="660" frameX="-2" frameY="-7" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0006" x="2730" y="678" width="910" height="661" frameX="-2" frameY="-6" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0007" x="3640" y="678" width="910" height="667" frameX="-2" frameY="0" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0008" x="3640" y="678" width="910" height="667" frameX="-2" frameY="0" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0009" x="3640" y="678" width="910" height="667" frameX="-2" frameY="0" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0010" x="4550" y="678" width="910" height="667" frameX="-2" frameY="0" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0011" x="4550" y="678" width="910" height="667" frameX="-2" frameY="0" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0012" x="4550" y="678" width="910" height="667" frameX="-2" frameY="0" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0013" x="5460" y="678" width="910" height="666" frameX="-2" frameY="-1" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0014" x="5460" y="678" width="910" height="666" frameX="-2" frameY="-1" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0015" x="6370" y="678" width="910" height="653" frameX="-2" frameY="-14" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0016" x="0" y="1345" width="913" height="651" frameX="0" frameY="-14" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0017" x="913" y="1345" width="913" height="651" frameX="0" frameY="-14" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0018" x="1826" y="1345" width="910" height="653" frameX="-2" frameY="-14" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0019" x="2736" y="1345" width="910" height="655" frameX="-2" frameY="-12" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0020" x="3646" y="1345" width="910" height="655" frameX="-2" frameY="-12" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0021" x="4556" y="1345" width="910" height="657" frameX="-2" frameY="-10" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0022" x="5466" y="1345" width="910" height="665" frameX="-2" frameY="-2" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0023" x="5466" y="1345" width="910" height="665" frameX="-2" frameY="-2" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0024" x="5466" y="1345" width="910" height="665" frameX="-2" frameY="-2" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0025" x="6376" y="1345" width="910" height="665" frameX="-2" frameY="-2" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0026" x="6376" y="1345" width="910" height="665" frameX="-2" frameY="-2" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0027" x="6376" y="1345" width="910" height="665" frameX="-2" frameY="-2" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0028" x="0" y="2010" width="910" height="665" frameX="-2" frameY="-2" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat0029" x="0" y="2010" width="910" height="665" frameX="-2" frameY="-2" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0000" x="910" y="2010" width="910" height="637" frameX="-2" frameY="-30" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0001" x="1820" y="2010" width="913" height="635" frameX="0" frameY="-30" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0002" x="2733" y="2010" width="913" height="619" frameX="0" frameY="-46" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0003" x="3646" y="2010" width="910" height="621" frameX="-2" frameY="-46" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0004" x="4556" y="2010" width="910" height="609" frameX="-2" frameY="-58" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0005" x="5466" y="2010" width="910" height="609" frameX="-2" frameY="-58" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0006" x="6376" y="2010" width="910" height="628" frameX="-2" frameY="-39" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0007" x="3640" y="678" width="910" height="667" frameX="-2" frameY="0" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0008" x="3640" y="678" width="910" height="667" frameX="-2" frameY="0" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0009" x="3640" y="678" width="910" height="667" frameX="-2" frameY="0" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0010" x="4550" y="678" width="910" height="667" frameX="-2" frameY="0" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0011" x="4550" y="678" width="910" height="667" frameX="-2" frameY="0" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0012" x="4550" y="678" width="910" height="667" frameX="-2" frameY="0" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0013" x="5460" y="678" width="910" height="666" frameX="-2" frameY="-1" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0014" x="5460" y="678" width="910" height="666" frameX="-2" frameY="-1" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0015" x="6370" y="678" width="910" height="653" frameX="-2" frameY="-14" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0016" x="0" y="1345" width="913" height="651" frameX="0" frameY="-14" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0017" x="913" y="1345" width="913" height="651" frameX="0" frameY="-14" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0018" x="1826" y="1345" width="910" height="653" frameX="-2" frameY="-14" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0019" x="2736" y="1345" width="910" height="655" frameX="-2" frameY="-12" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0020" x="3646" y="1345" width="910" height="655" frameX="-2" frameY="-12" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0021" x="4556" y="1345" width="910" height="657" frameX="-2" frameY="-10" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0022" x="5466" y="1345" width="910" height="665" frameX="-2" frameY="-2" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0023" x="5466" y="1345" width="910" height="665" frameX="-2" frameY="-2" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0024" x="5466" y="1345" width="910" height="665" frameX="-2" frameY="-2" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0025" x="6376" y="1345" width="910" height="665" frameX="-2" frameY="-2" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0026" x="6376" y="1345" width="910" height="665" frameX="-2" frameY="-2" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0027" x="6376" y="1345" width="910" height="665" frameX="-2" frameY="-2" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0028" x="0" y="2010" width="910" height="665" frameX="-2" frameY="-2" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair Landing0029" x="0" y="2010" width="910" height="665" frameX="-2" frameY="-2" frameWidth="913" frameHeight="667"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0000" x="0" y="2675" width="910" height="643" frameX="-2" frameY="-13" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0001" x="910" y="2675" width="913" height="641" frameX="0" frameY="-13" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0002" x="1823" y="2675" width="913" height="639" frameX="0" frameY="-15" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0003" x="2736" y="2675" width="910" height="643" frameX="-2" frameY="-13" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0004" x="3646" y="2675" width="910" height="645" frameX="-2" frameY="-11" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0005" x="4556" y="2675" width="910" height="645" frameX="-2" frameY="-11" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0006" x="5466" y="2675" width="910" height="649" frameX="-2" frameY="-7" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0007" x="6376" y="2675" width="910" height="654" frameX="-2" frameY="-2" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0008" x="0" y="3329" width="910" height="652" frameX="-2" frameY="-4" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0009" x="910" y="3329" width="910" height="654" frameX="-2" frameY="-2" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0010" x="1820" y="3329" width="910" height="656" frameX="-2" frameY="0" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0011" x="1820" y="3329" width="910" height="656" frameX="-2" frameY="0" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0012" x="2730" y="3329" width="910" height="654" frameX="-2" frameY="-2" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0013" x="3640" y="3329" width="910" height="655" frameX="-2" frameY="-1" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0014" x="4550" y="3329" width="910" height="653" frameX="-2" frameY="-3" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0015" x="5460" y="3329" width="910" height="641" frameX="-2" frameY="-15" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0016" x="6370" y="3329" width="913" height="639" frameX="0" frameY="-15" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0017" x="0" y="3985" width="913" height="636" frameX="0" frameY="-18" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0018" x="913" y="3985" width="910" height="636" frameX="-2" frameY="-20" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0019" x="1823" y="3985" width="910" height="641" frameX="-2" frameY="-15" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0020" x="2733" y="3985" width="910" height="639" frameX="-2" frameY="-17" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0021" x="3643" y="3985" width="910" height="646" frameX="-2" frameY="-10" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0022" x="4553" y="3985" width="910" height="653" frameX="-2" frameY="-3" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0023" x="4553" y="3985" width="910" height="653" frameX="-2" frameY="-3" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0024" x="5463" y="3985" width="910" height="651" frameX="-2" frameY="-5" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0025" x="6373" y="3985" width="910" height="654" frameX="-2" frameY="-2" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0026" x="0" y="4639" width="910" height="652" frameX="-2" frameY="-4" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0027" x="910" y="4639" width="910" height="654" frameX="-2" frameY="-2" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0028" x="1820" y="4639" width="910" height="653" frameX="-2" frameY="-3" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing0029" x="1820" y="4639" width="910" height="653" frameX="-2" frameY="-3" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0000" x="2730" y="4639" width="910" height="641" frameX="-2" frameY="-15" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0001" x="3640" y="4639" width="913" height="639" frameX="0" frameY="-15" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0002" x="4553" y="4639" width="913" height="637" frameX="0" frameY="-17" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0003" x="5466" y="4639" width="910" height="641" frameX="-2" frameY="-15" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0004" x="6376" y="4639" width="910" height="645" frameX="-2" frameY="-11" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0005" x="0" y="5293" width="910" height="645" frameX="-2" frameY="-11" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0006" x="910" y="5293" width="910" height="649" frameX="-2" frameY="-7" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0007" x="1820" y="5293" width="910" height="654" frameX="-2" frameY="-2" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0008" x="2730" y="5293" width="910" height="652" frameX="-2" frameY="-4" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0009" x="3640" y="5293" width="910" height="654" frameX="-2" frameY="-2" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0010" x="4550" y="5293" width="910" height="656" frameX="-2" frameY="0" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0011" x="4550" y="5293" width="910" height="656" frameX="-2" frameY="0" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0012" x="5460" y="5293" width="910" height="654" frameX="-2" frameY="-2" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0013" x="6370" y="5293" width="910" height="655" frameX="-2" frameY="-1" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0014" x="7280" y="5293" width="910" height="653" frameX="-2" frameY="-3" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0015" x="0" y="5949" width="910" height="641" frameX="-2" frameY="-15" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0016" x="910" y="5949" width="913" height="639" frameX="0" frameY="-15" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0017" x="1823" y="5949" width="913" height="636" frameX="0" frameY="-18" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0018" x="2736" y="5949" width="910" height="636" frameX="-2" frameY="-20" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0019" x="3646" y="5949" width="910" height="641" frameX="-2" frameY="-15" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0020" x="4556" y="5949" width="910" height="639" frameX="-2" frameY="-17" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0021" x="5466" y="5949" width="910" height="646" frameX="-2" frameY="-10" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0022" x="6376" y="5949" width="910" height="653" frameX="-2" frameY="-3" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0023" x="6376" y="5949" width="910" height="653" frameX="-2" frameY="-3" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0024" x="0" y="6602" width="910" height="651" frameX="-2" frameY="-5" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0025" x="910" y="6602" width="910" height="654" frameX="-2" frameY="-2" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0026" x="1820" y="6602" width="910" height="652" frameX="-2" frameY="-4" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0027" x="2730" y="6602" width="910" height="654" frameX="-2" frameY="-2" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0028" x="3640" y="6602" width="910" height="653" frameX="-2" frameY="-3" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0029" x="3640" y="6602" width="910" height="653" frameX="-2" frameY="-3" frameWidth="913" frameHeight="656"/>
+	<SubTexture name="GF Down Note0000" x="4550" y="6602" width="910" height="651" frameX="-2" frameY="-6" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Down Note0001" x="5460" y="6602" width="913" height="649" frameX="0" frameY="-6" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Down Note0002" x="6373" y="6602" width="913" height="654" frameX="0" frameY="-1" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Down Note0003" x="0" y="7256" width="910" height="656" frameX="-2" frameY="-1" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Down Note0004" x="910" y="7256" width="910" height="657" frameX="-2" frameY="0" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Down Note0005" x="910" y="7256" width="910" height="657" frameX="-2" frameY="0" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Down Note0006" x="910" y="7256" width="910" height="657" frameX="-2" frameY="0" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Down Note0007" x="910" y="7256" width="910" height="657" frameX="-2" frameY="0" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Down Note0008" x="910" y="7256" width="910" height="657" frameX="-2" frameY="0" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Down Note0009" x="910" y="7256" width="910" height="657" frameX="-2" frameY="0" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Down Note0010" x="910" y="7256" width="910" height="657" frameX="-2" frameY="0" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Down Note0011" x="910" y="7256" width="910" height="657" frameX="-2" frameY="0" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Down Note0012" x="910" y="7256" width="910" height="657" frameX="-2" frameY="0" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Down Note0013" x="910" y="7256" width="910" height="657" frameX="-2" frameY="0" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Down Note0014" x="910" y="7256" width="910" height="657" frameX="-2" frameY="0" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Down Note0015" x="910" y="7256" width="910" height="657" frameX="-2" frameY="0" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Down Note0016" x="910" y="7256" width="910" height="657" frameX="-2" frameY="0" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Down Note0017" x="910" y="7256" width="910" height="657" frameX="-2" frameY="0" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Down Note0018" x="910" y="7256" width="910" height="657" frameX="-2" frameY="0" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Down Note0019" x="910" y="7256" width="910" height="657" frameX="-2" frameY="0" frameWidth="913" frameHeight="657"/>
+	<SubTexture name="GF Duck0000" x="1820" y="7256" width="929" height="575" frameX="0" frameY="-12" frameWidth="929" frameHeight="587"/>
+	<SubTexture name="GF Duck0001" x="1820" y="7256" width="929" height="575" frameX="0" frameY="-12" frameWidth="929" frameHeight="587"/>
+	<SubTexture name="GF Duck0002" x="2749" y="7256" width="921" height="587" frameX="-4" frameY="0" frameWidth="929" frameHeight="587"/>
+	<SubTexture name="GF Duck0003" x="2749" y="7256" width="921" height="587" frameX="-4" frameY="0" frameWidth="929" frameHeight="587"/>
+	<SubTexture name="GF Duck Hair Blowing0000" x="3670" y="7256" width="929" height="571" frameX="0" frameY="-17" frameWidth="929" frameHeight="588"/>
+	<SubTexture name="GF Duck Hair Blowing0001" x="3670" y="7256" width="929" height="571" frameX="0" frameY="-17" frameWidth="929" frameHeight="588"/>
+	<SubTexture name="GF Duck Hair Blowing0002" x="4599" y="7256" width="921" height="586" frameX="-4" frameY="-2" frameWidth="929" frameHeight="588"/>
+	<SubTexture name="GF Duck Hair Blowing0003" x="5520" y="7256" width="921" height="588" frameX="-4" frameY="0" frameWidth="929" frameHeight="588"/>
+	<SubTexture name="GF FEAR 0000" x="6441" y="7256" width="910" height="659" frameX="0" frameY="-1" frameWidth="910" frameHeight="660"/>
+	<SubTexture name="GF body0000" x="7351" y="7256" width="101" height="145"/>
+	<SubTexture name="crying face0000" x="7452" y="7256" width="118" height="84"/>
+	<SubTexture name="crying face0001" x="7452" y="7256" width="118" height="84"/>
+	<SubTexture name="crying face0002" x="7570" y="7256" width="118" height="84"/>
+	<SubTexture name="crying face0003" x="7570" y="7256" width="118" height="84"/>
+	<SubTexture name="crying face0004" x="7688" y="7256" width="104" height="84" frameX="-14" frameY="0" frameWidth="118" frameHeight="84"/>
+	<SubTexture name="crying face0005" x="7688" y="7256" width="104" height="84" frameX="-14" frameY="0" frameWidth="118" frameHeight="84"/>
+	<SubTexture name="crying face0006" x="7792" y="7256" width="118" height="84"/>
+	<SubTexture name="crying face0007" x="7792" y="7256" width="118" height="84"/>
+	<SubTexture name="down hand0000" x="7910" y="7256" width="67" height="71"/>
+	<SubTexture name="gf FEAR face0000" x="7977" y="7256" width="105" height="68"/>
+	<SubTexture name="gf FEAR face0001" x="8082" y="7256" width="105" height="68"/>
+	<SubTexture name="gf FEAR face0002" x="0" y="7915" width="105" height="68"/>
+	<SubTexture name="gf FEAR face0003" x="105" y="7915" width="105" height="68"/>
+	<SubTexture name="gf arm blank0000" x="210" y="7915" width="65" height="101"/>
+	<SubTexture name="gf arm blank bg0000" x="275" y="7915" width="62" height="102"/>
+	<SubTexture name="gf arm covering0000" x="337" y="7915" width="97" height="116"/>
+	<SubTexture name="gf bg arm0000" x="434" y="7915" width="123" height="135"/>
+	<SubTexture name="gf bottom leg0000" x="557" y="7915" width="53" height="144"/>
+	<SubTexture name="gf face0000" x="610" y="7915" width="120" height="66"/>
+	<SubTexture name="gf fg arm0000" x="730" y="7915" width="114" height="128"/>
+	<SubTexture name="gf hair blowing0000" x="844" y="7915" width="467" height="261" frameX="-45" frameY="-1" frameWidth="516" frameHeight="275"/>
+	<SubTexture name="gf hair blowing0001" x="844" y="7915" width="467" height="261" frameX="-45" frameY="-1" frameWidth="516" frameHeight="275"/>
+	<SubTexture name="gf hair blowing0002" x="1311" y="7915" width="510" height="256" frameX="0" frameY="-2" frameWidth="516" frameHeight="275"/>
+	<SubTexture name="gf hair blowing0003" x="1821" y="7915" width="463" height="275" frameX="-53" frameY="0" frameWidth="516" frameHeight="275"/>
+	<SubTexture name="gf hands right0000" x="2284" y="7915" width="180" height="67"/>
+	<SubTexture name="gf hands up0000" x="2464" y="7915" width="165" height="93"/>
+	<SubTexture name="gf head0000" x="2629" y="7915" width="252" height="121"/>
+	<SubTexture name="gf top leg0000" x="2881" y="7915" width="218" height="110"/>
+	<SubTexture name="leg fear0000" x="3099" y="7915" width="80" height="145" frameX="-11" frameY="0" frameWidth="91" frameHeight="145"/>
+	<SubTexture name="leg fear0001" x="3099" y="7915" width="80" height="145" frameX="-11" frameY="0" frameWidth="91" frameHeight="145"/>
+	<SubTexture name="leg fear0002" x="3179" y="7915" width="84" height="135" frameX="0" frameY="-2" frameWidth="91" frameHeight="145"/>
+	<SubTexture name="leg fear0003" x="3179" y="7915" width="84" height="135" frameX="0" frameY="-2" frameWidth="91" frameHeight="145"/>
+	<SubTexture name="main speaker bump0000" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0001" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0002" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0003" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0004" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0005" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0006" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0007" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0008" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0009" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0010" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0011" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0012" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0013" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0014" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0015" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0016" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0017" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0018" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0019" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0020" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0021" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0022" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0023" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0024" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0025" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0026" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0027" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="main speaker bump0028" x="3263" y="7915" width="317" height="156"/>
+	<SubTexture name="palm on cheek hand0000" x="3580" y="7915" width="59" height="105"/>
+	<SubTexture name="small speaker openering0000" x="3639" y="7915" width="90" height="104"/>
+	<SubTexture name="wink right0000" x="3729" y="7915" width="125" height="58"/>
+</TextureAtlas>

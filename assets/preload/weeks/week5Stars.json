@@ -1,0 +1,40 @@
+{
+	"storyName": "five little happy stars running... hey kid, wanna weinar in mouth?",
+	"difficulties": "Hard",
+	"hideFreeplay": true,
+	"weekBackground": "tank",
+	"weekBefore": "week7",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"tankman",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"fivestars",
+			"tankman",
+			[
+				246,
+				182,
+				4
+			]
+		],
+		[
+			"fivestars2",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "WeekStars"
+}

@@ -1,0 +1,158 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				280,
+				140
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mom Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				220,
+				117
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mom Left Pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				70
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mom Pose Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				80,
+				-30
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MOM DOWN POSE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				388,
+				156
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mom Up Pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				280,
+				140
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "Mom Idle"
+		},
+		{
+			"offsets": [
+				220,
+				127
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "Mom Left Pose"
+		},
+		{
+			"offsets": [
+				384,
+				161
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Mom Up Pose"
+		},
+		{
+			"offsets": [
+				131,
+				70
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "Mom Pose Left"
+		},
+		{
+			"offsets": [
+				71,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "MOM DOWN POSE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/momjsidesCar",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "momjsides",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

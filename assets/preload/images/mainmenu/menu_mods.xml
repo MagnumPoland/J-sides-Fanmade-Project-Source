@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_mods.png">
+<SubTexture name="mods basic0000" x="0" y="0" width="354" height="91" frameX="0" frameY="-27" frameWidth="355" frameHeight="139" />
+<SubTexture name="mods basic0001" x="0" y="91" width="353" height="90" frameX="-1" frameY="-27" frameWidth="355" frameHeight="139" />
+<SubTexture name="mods basic0002" x="0" y="181" width="353" height="90" frameX="-1" frameY="-27" frameWidth="355" frameHeight="139" />
+<SubTexture name="mods basic0003" x="0" y="0" width="354" height="91" frameX="0" frameY="-27" frameWidth="355" frameHeight="139" />
+<SubTexture name="mods basic0004" x="0" y="91" width="353" height="90" frameX="-1" frameY="-27" frameWidth="355" frameHeight="139" />
+<SubTexture name="mods basic0005" x="0" y="181" width="353" height="90" frameX="-1" frameY="-27" frameWidth="355" frameHeight="139" />
+<SubTexture name="mods basic0006" x="0" y="0" width="354" height="91" frameX="0" frameY="-27" frameWidth="355" frameHeight="139" />
+<SubTexture name="mods basic0007" x="0" y="91" width="353" height="90" frameX="-1" frameY="-27" frameWidth="355" frameHeight="139" />
+<SubTexture name="mods white0000" x="0" y="271" width="279" height="71" frameX="-1" frameY="-35" frameWidth="281" frameHeight="138" />
+<SubTexture name="mods white0001" x="354" y="0" width="279" height="71" frameX="-1" frameY="-35" frameWidth="281" frameHeight="138" />
+<SubTexture name="mods white0002" x="354" y="71" width="279" height="71" frameX="-1" frameY="-35" frameWidth="281" frameHeight="138" />
+</TextureAtlas>
